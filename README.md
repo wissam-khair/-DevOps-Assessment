@@ -60,9 +60,8 @@ You’ll demonstrate your ability to:
 
 ## 💡 Bonus (Optional)
 
-- Automate setup using Ansible or Terraform  
 - Secure traffic between services with TLS  
-- Add a sample Nomad job using Vault secrets  
+- Add a sample Nomad job using Vault secrets
 - Configure Vault Agent or auto-auth method (e.g. AppRole)
 
 ---
@@ -75,7 +74,7 @@ You’ll demonstrate your ability to:
 | Configuration Quality | Security, clarity, and best practices |
 | Documentation | Clear, reproducible instructions |
 | Automation | Reusability and scripting quality |
-| Bonus | Vault + Nomad integration, TLS, automation |
+| Bonus | Vault + Nomad integration, TLS |
 
 ---
 
